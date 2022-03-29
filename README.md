@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on web API
-- 📫 How to reach me hisham@gmail.com
+- 📫 How to reach me hishamsocary@gmail.com
 
 <!---
 hishamsokry/hishamsokry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
